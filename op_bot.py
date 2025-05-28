@@ -20,7 +20,7 @@ from pathlib import Path
 from typing import Dict, Tuple, Optional, List
 
 # Bot Configuration - Hardcoded Token
-BOT_TOKEN = "7847660674:AAHArLRDWZE6SPyWBFgSjEOrr7s2EFIncZs"
+BOT_TOKEN = "8064751391:AAEx1o9j_3NxYushCWgeZKTVj2XJD8Nf5YY"
 TELEGRAM_BASE_URL = "https://api.telegram.org/bot"
 
 # Configuration Constants
